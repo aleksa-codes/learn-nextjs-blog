@@ -9,5 +9,3 @@ This was a good practice for me because I learnt:
 - How to deploy a Next.js app from github repo to [Netlify](https://learn-next-js.netlify.app/)
 
 ## Feel free to contact me
-
-✉️ stojsic.aleksa@gmail.com
